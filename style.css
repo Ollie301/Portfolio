@@ -124,9 +124,6 @@ html{
 }
 
 #qr img{
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 5%;
     height: 5%;
 }
