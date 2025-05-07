@@ -120,9 +120,6 @@ html {
 }
 }
 #qr{
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding-left: 800px;
 }
 #qr img{
