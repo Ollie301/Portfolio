@@ -100,7 +100,7 @@ body {
 .links #resume{
     height: 500px;
 }
-html {
+html{
     scroll-behavior: smooth;
 }
 .links img:hover{
@@ -118,6 +118,9 @@ html {
     width: 250px;
     height: 250px;
 }
+.contact img:hover{
+    transition: all 2s;
+    transform:scale(1.2);
 }
 #qr{
     padding-left: 800px;
