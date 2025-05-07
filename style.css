@@ -107,12 +107,17 @@ html {
     transition: all 2s;
     transform:scale(1.2);
 }
-.contact li{
-    text-decoration: none;
-    list-style-type: none;
-    font-size: 55px;
-    outline: none;
-    color: black;
+.contact{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: auto;
+    height: 750px;
+}
+.contact img{
+    width: 250px;
+    height: 250px;
+}
 }
 #qr{
     display: flex;
