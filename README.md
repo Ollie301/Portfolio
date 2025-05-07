@@ -1,5 +1,7 @@
 # Portfolio
-![](images/Resume.jpg)
-![](images/Git.jpg)
-![](images/frame.jpg)
-![](images/pic.jpg)
+For my chatbot I decided to use Dialog Flow
+I used 6 intents
+Class for what relevant class work
+Fallback intent for invalid text
+Lang for languages
+Welcoming the user to the website
