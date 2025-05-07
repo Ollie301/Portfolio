@@ -114,3 +114,11 @@ html {
     outline: none;
     color: black;
 }
+#qr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 20%;
+    padding-left: 800px;
+}
